@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body{
+	margin: 0%;
+	background: linear-gradient(180deg, #F0F0E4, #68BDE1);
+	text-align: center;
+}
+form{
+	max-width: 400px;
+	margin: 40px auto;
+	padding: 20px 30px;
+	box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+}
+#title{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+#description{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+}
+input[type="number"]{
+	width: 60px;
+}
+
+input[type="checkbox"]{
+	align-items: center;
+	font-family: 'Poppins', sans-serif;
+}
+label[for=question-1],
+label[for=question-2]{
+	font-family: 'Poppins', sans-serif;
+}
+label[for=offering-1],
+label[for=offering-2],
+label[for=offering-3]{
+	font-family: 'Poppins', sans-serif;
+}
+
+#name-label{
+	font-family: 'Poppins', sans-serif;
+	font-weight: bolder;
+
+}
+#email-label{
+	font-family: 'Poppins', sans-serif;
+	font-weight: bolder;	
+}
+#number-label{
+	font-family: 'Poppins', sans-serif;
+	font-weight: bolder;
+}
+h3{
+	font-family: 'Sources San Pro', sans-serif;
+	font-weight: bolder;
+}
+button{
+	background-color: grey;
+	border-radius: 10px;
+	width: 100px;
+	color: black; 
+	padding: 15px, 32px;
+	display: inline-block;
+	font-family: 'Poppins', sans-serif;
+	font-weight: bolder;
+	font-size: 16px;
+	cursor: pointer;
+	transition: 0.7ms;
+
+}
+
+textarea{
+	width: 100%;
+	height: 150px;
+	padding: 12px 20px;
+	box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  resize: none
+}
+
+button:hover{
+	background-color: blue;
+	color: white;
+	
+
+}
+
+	
+footer{
+	font-weight: bold;
+	font-family: 'Poppins, sans-serif';
+
+}
+

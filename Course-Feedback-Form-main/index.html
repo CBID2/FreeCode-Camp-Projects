@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="styles.css">
+	<title>Survey Form</title>
+</head>
+<div class="container">
+<header>
+<h1 id="title">Course Feedback Form</h1>	
+<p id="description"> Thank you for taking our course! We work diligently to improve our courses, so your feedback means alot to us!</p>
+</header>
+<form id="survey-form">
+<div class="form-group">
+<label id="name-label"> Your Name</label>
+	<input type="text" id="name" placeholder="e.g. Dante Smith" required>
+</div>
+<div class="form-group">
+<label id="email-label"> Your Email</label>
+ <input type="email" id="email" required placeholder="e.g. dantesmith@gmail.com">
+</div>
+<div class="form-group">
+<label id="number-label">Years of Experience <input type="number" placeholder="ex: 2" id="number" min="1" max="120"></label>
+</div>
+<div class="form-group">
+	<h3> What course have you taken?</h3>
+	<select name="courses" id="dropdown">
+		<option value="">--Please choose an option--</option>
+		<option value="google"> Google Apps for Educators</option>
+		<option value="coding">HTML for Instructional Designers I</option>
+	</select>
+</div>
+<div class="form-group">
+	<h3> Would you recommend others to take our courses? </h3>
+	<label for="question-1"> <input type="radio" id="answer" name="answer" value="answer"/> No </label> 
+<label for="question-2"> <input type="radio" id="answer" name="answer" value="answer"/> Yes</label>
+</div>
+	<div class="form-group">
+	<h3> What do you want us to do more in the future?(Check all that apply)</h3>
+<label for="offering-1"> <input type="checkbox" id="contests" name= "contests" value= "contests"/> Contests</label>
+<label for="offering-2"> <input type="checkbox" id="podcast" name="podcast" value="podcast"/> Podcast</label>	
+<label for="offering-3"> <input type="checkbox" id="internships" name="internships" value="internships"/> Internships</label>	
+</div>
+<div class="form-group">
+<h3> Have more ideas? Write them in the box below.</h3>
+<br>
+<textarea id="suggestions" name="suggestions" rows="12" cols="35"> </textarea>
+</div>
+<br>
+<button id="submit"> Submit</button>
+</form>
+</div>
+<footer>
+	<p>Coded by <a class="profile-link" href="https://github.com/CBID2 "target="_blank"><em>Christine Belzie</em></a></p>
+</footer>
+</body>
+</html>
+
+
