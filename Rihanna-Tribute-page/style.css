@@ -1,0 +1,57 @@
+*{
+  margin: 0px;
+  padding:0px;
+  box-sizing: border-box;
+}
+body {
+  background: linear-gradient(45deg, cyan, rgba(250, 0, 200, 0.3));
+}
+#title{
+  display: flex;
+  justify-content: center;
+   font-family: 'Montserrat', sans-serif;
+}
+figure{
+ max-width: 100%;  
+  height: auto; 
+  display: flex;
+  justify-content: center;  
+}
+figcaption{
+  max-width:100%
+    height: auto;
+  display:flex;
+  justify-content: center;
+   font-family: 'Montserrat', sans-serif;
+  
+}
+#tribute-info p{
+  display:flex;
+  justify-content: center;
+  font-family: 'Poppins', sans-serif;
+  
+}
+.main-container {
+  display: flex;
+  justify-content: space-between;
+}
+.album-title{
+  display: flex;
+  justify-content: center;
+  font-family: 'Poppins', sans-serif ;
+}
+#section-title{
+  font-family: 'Poppins', sans-serif;
+  
+}
+#tribute-link{
+ font-family: 'Montserrat', sans-serif;
+  font-weight: bold; 
+}
+footer{
+  display: flex;
+  justify-content: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  
+}
