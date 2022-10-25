@@ -10,7 +10,7 @@
 	- [My process](#my-process)
 		- [My inspiration](#my-inspiration)
 		- [Built with](#built-with)
-		- [What I learned](#what-i-learned)
+		- [What did you learn from this project?](#what-did-you-learn)
 		- [Code Snippets:](#code-snippets)
 		- [Continued development](#continued-development)
 		- [Useful resources](#useful-resources)
@@ -47,7 +47,7 @@
 
 
 ### What did you learn from this project?
-
+### Technique:
 Through this project, I learned that it is ok to use div elements to create containers. On a personal note, I also found myself improving on using creative names for classes.
 
 ### Code Snippets:
@@ -75,7 +75,7 @@ textarea {
 
 - CSS Flexbox
 - More semantic HTML tags
-- Relearn Javascript 
+
 
 
 ### Useful resources
