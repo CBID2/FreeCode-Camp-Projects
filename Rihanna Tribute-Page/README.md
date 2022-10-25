@@ -22,12 +22,12 @@
 ## Overview
 
 ### The challenge
-
+<!-- Do today -->
 - I had to build an app that is functionally similar to https://survey-form.freecodecamp.rocks
 
 
 ### Screenshot
-
+<!-- Get a screenshot of the site after deploying it. Then paste the link. -->
 ![FireShot Capture 004 - Survey Form - 127 0 0 1](https://user-images.githubusercontent.com/105683440/191130143-adb6245a-f68a-457c-b682-65b8a4271dd4.png)
 
 
@@ -51,6 +51,7 @@
 Through this project, I learned that it is ok to use div elements to create containers. On a personal note, I also found myself improving on using creative names for classes.
 
 ### Code Snippets:
+<!-- Pick the HTML code line that you like the most -->
 HTML
 
 email validation
@@ -60,7 +61,7 @@ email validation
 ```
 
 CSS
-
+<!-- Pick the code line that you like the most -->
 resize
 ```
 textarea {
@@ -79,7 +80,7 @@ textarea {
 
 
 ### Useful resources
-
+<!-- Pick 2-3 sources that stood out to you. -->
 - [W3 Schools: How to create a Contact Form](https://www.w3schools.com/howto/howto_css_contact_form.asp) - This source gave a me few ideas on how to create the form and structure its textbox. I highly recommend it if you are struggling with using the div element to create a form's structure. 
 - [FreeCodeCamp: CSS Button Style – Hover, Color, and Background](https://www.freecodecamp.org/news/css-button-style-hover-color-and-background/) - I found this article when I was struggling to style my button. It gave me some ideas on how to make my button appealing. If you're still learning this concept or need a refresher, I highly recommend reading this article.
 
