@@ -38,7 +38,7 @@
 - Live Site URL: https://cbid2.github.io/Course-Feedback-Form/
 
 ## My process
-### My inspiration
+### Why this person?
 - As a person who is transitioning into the Instructional Design field, I decided to a create a survey form for a mock organization.   
 ### Built with
 - Semantic HTML5 markup
