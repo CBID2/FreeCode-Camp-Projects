@@ -11,7 +11,7 @@ body {
 	justify-content: center;
 	 font-family: 'Montserrat', sans-serif;
   }
-  #img-div{
+  figure{
    max-width: 100%;  
 	height: auto; 
 	display: flex;
