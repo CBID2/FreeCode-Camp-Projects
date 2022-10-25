@@ -46,7 +46,7 @@
 
 
 
-### What I learned
+### What did you learn from this project?
 
 Through this project, I learned that it is ok to use div elements to create containers. On a personal note, I also found myself improving on using creative names for classes.
 
