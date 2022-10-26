@@ -26,8 +26,7 @@
 
 
 ### Screenshot
-<!-- Get a screenshot of the site after deploying it. Then paste the link. -->
-![FireShot Capture 004 - Survey Form - 127 0 0 1](https://user-images.githubusercontent.com/105683440/191130143-adb6245a-f68a-457c-b682-65b8a4271dd4.png)
+![Tribute to Rihanna](https://user-images.githubusercontent.com/105683440/197928899-0f0913cb-824d-4d04-8c9b-a0ba31eff7ce.png)
 
 
 
