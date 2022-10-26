@@ -36,7 +36,7 @@
 - Live Site URL: https://rihanna-tribute-page.christinebelzi1.repl.co/
 
 ## My process
-<!--  -->
+<!-- Do this section tomorrow -->
 ### Why this person?
 - As a person who is transitioning into the Instructional Design field, I decided to a create a survey form for a mock organization.   
 ### Built with
