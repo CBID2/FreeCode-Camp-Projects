@@ -21,8 +21,8 @@
 ## Overview
 
 ### The challenge
-<!-- Do today -->
-- I had to build an app that is functionally similar to https://survey-form.freecodecamp.rocks
+
+- I had to build an app that is functionally similar to https://tribute-page.freecodecamp.rocks/
 
 
 ### Screenshot
@@ -32,10 +32,11 @@
 
 ### Links
 
-- Solution URL: https://github.com/CBID2/Survey-Form.git
-- Live Site URL: https://cbid2.github.io/Course-Feedback-Form/
+- Solution URL: https://github.com/CBID2/FreeCode-Camp-Projects.git
+- Live Site URL: https://rihanna-tribute-page.christinebelzi1.repl.co/
 
 ## My process
+<!--  -->
 ### Why this person?
 - As a person who is transitioning into the Instructional Design field, I decided to a create a survey form for a mock organization.   
 ### Built with
