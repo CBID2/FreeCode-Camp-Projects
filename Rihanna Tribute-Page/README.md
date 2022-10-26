@@ -72,7 +72,7 @@ textarea {
 
 
 ### Continued development
-
+<!-- Mention Flexbox and that you want to add JS in the future -->
 - CSS Flexbox
 - More semantic HTML tags
 
