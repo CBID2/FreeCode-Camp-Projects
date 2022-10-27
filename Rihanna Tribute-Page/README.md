@@ -36,45 +36,44 @@
 - Live Site URL: https://rihanna-tribute-page.christinebelzi1.repl.co/
 
 ## My process
-<!-- Do this section tomorrow -->
-### Why this person?
-- As a person who is transitioning into the Instructional Design field, I decided to a create a survey form for a mock organization.   
+### Why did you choose this person?
+- I have always admired Rihanna for her unwavering determination in acheiving her dreams, blunt personality, constantly expressing pride in being from Barbados, and not being afraid to be experimental with music and beauty.   
 ### Built with
 - Semantic HTML5 markup
 - CSS custom properties
-
-
-
+- CSS Flexbox properties 
 ### What did you learn from this project?
-### Technique:
-Through this project, I learned that it is ok to use div elements to create containers. On a personal note, I also found myself improving on using creative names for classes.
+At first, I used regular CSS, per FreeCodeCamp's directions to user stories like center the figure. However, I wanted to experiment with Flexbox more, so I went with that approach. Through this experience I learned that there's no "one-size-fits-all" method to coding. 
 
 ### Code Snippets:
-<!-- Pick the HTML code line that you like the most -->
-HTML
 
-email validation
+ HTML
+
+Creating a website section
 ```
-<label id="email-label"> Email Address</label>
-<input type ="email" id="email-label" pattern ="[^ @]*@[^ @]*" placeholder="e.g. dantesmith@gmail.com">
+<section class="website area">
+      <h1 id="section-title"> Discography</h1> 
+      <div class="main-container">
+        <div class="container"> 
+          <h4 class="album-title"> Album 1</h4> 
+          <a href="#"  target="_blank"> <img class="album-cover" src="#">
+        </div>
+        
 ```
 
 CSS
-<!-- Pick the code line that you like the most -->
-resize
+
+Styling links
 ```
-textarea {
-  resize: none;
-}
-```
-
-
-
+/* unvisited link */
+  a:link {
+	color: red;
+  }
+ ``` 
 
 ### Continued development
-<!-- Mention Flexbox and that you want to add JS in the future -->
-- CSS Flexbox
-- More semantic HTML tags
+- More CSS Flexbox
+- Implementing ARIA-Role tags 
 
 
 
