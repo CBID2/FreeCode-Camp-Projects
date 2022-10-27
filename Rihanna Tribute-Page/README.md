@@ -74,7 +74,7 @@ Styling links
 ### Continued development
 - More CSS Flexbox
 - Implementing ARIA-Role tags 
-
+- JavaScript 
 
 
 ### Useful resources
