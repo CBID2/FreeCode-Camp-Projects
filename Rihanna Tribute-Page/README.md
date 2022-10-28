@@ -78,8 +78,7 @@ Styling links
 
 
 ### Useful resources
-<!-- Pick 2-3 sources that stood out to you. -->
-- [W3 Schools: How to create a Contact Form](https://www.w3schools.com/howto/howto_css_contact_form.asp) - This source gave a me few ideas on how to create the form and structure its textbox. I highly recommend it if you are struggling with using the div element to create a form's structure. 
+- [W3 Schools: CSS Styling Links](https://www.w3schools.com/css/css_link.asp) - I wanted to find a way to make the links interactive, and this article gave me a few ideas. If you want to do something similiar, I highly recommend this article.   
 - [FreeCodeCamp: CSS Button Style – Hover, Color, and Background](https://www.freecodecamp.org/news/css-button-style-hover-color-and-background/) - I found this article when I was struggling to style my button. It gave me some ideas on how to make my button appealing. If you're still learning this concept or need a refresher, I highly recommend reading this article.
 
 
