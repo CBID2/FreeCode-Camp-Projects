@@ -79,7 +79,7 @@ Styling links
 
 ### Useful resources
 - [W3 Schools: CSS Styling Links](https://www.w3schools.com/css/css_link.asp) - I wanted to find a way to make the links interactive, and this article gave me a few ideas. If you want to do something similiar, I highly recommend this article.   
-- [FreeCodeCamp: CSS Button Style – Hover, Color, and Background](https://www.freecodecamp.org/news/css-button-style-hover-color-and-background/) - I found this article when I was struggling to style my button. It gave me some ideas on how to make my button appealing. If you're still learning this concept or need a refresher, I highly recommend reading this article.
+- [CSS Tricks: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - I found this article when I was struggling to implement Flexbox into my CSS file. If you're new to this concept or need a refresher, I highly recommend referring to this guide.
 
 
 ## Author
@@ -91,8 +91,9 @@ Styling links
 
 ## Acknowledgments
 
-I want to thank the Scrimba Community for giving me feedback on the rough versions of my solutions. If you are looking for a welcoming online coding community, I highly recommend joining them.
+I want to thank the members of Scrimba and Replit's Discord communities for giving me feedback on the rough versions of my solutions. If you are looking for online coding communities that embrace coders from diverse backgrounds, I highly recommend joining them.
 
 - [Scrimba](https://scrimba.com/)
+- [Replit](https://replit.com/site/community)
 
 
